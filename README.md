@@ -16,11 +16,10 @@ The following instructions explain the different changes that need to be made to
 5. For **Part 4**, create a completely responsive grid where each grid item will be no smaller than 250px ([see images below](#part-4-layout)). **Do NOT use media queries.**
 6. For **Part 5**, recreate the **Part 5 Layout** using nested grids ([see image below](#part-5-layout)).
 
-::: tip 
-Target each part's item by including the appropriate part class (`.part1`, `.part2`, etc) in the CSS selector.
+*TIP: Target each part's item by including the appropriate part class (`.part1`, `.part2`, etc) in the CSS selector.*
 
 *Example:* `.part1 .item1 { }`
-:::
+
 ### Part 1 Layout
 
 ![The Grid Layout for Part 1](images/stay-on-the-grid-part1.png)
